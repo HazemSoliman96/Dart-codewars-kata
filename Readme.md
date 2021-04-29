@@ -12,6 +12,12 @@
 
 [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
 
+[Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
+
 ## 7kyu
 
 [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+
+## 6kyu
+
+[Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)

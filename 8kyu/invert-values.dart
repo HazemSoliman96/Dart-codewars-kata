@@ -1,0 +1,1 @@
+List<int> invert(List<int> arr) => arr.map((e) => e * (-1)).toList();
