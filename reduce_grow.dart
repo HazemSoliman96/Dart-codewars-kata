@@ -1,0 +1,1 @@
+int grow(List<int> arr) => arr.reduce((v, e) => v * e);
