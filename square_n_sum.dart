@@ -1,0 +1,1 @@
+int squareSum(List n) => n.length == 0 ? 0 : (n.map((e) => e * e)).reduce((v, e) => v + e);
