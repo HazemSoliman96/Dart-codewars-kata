@@ -1,0 +1,1 @@
+int getCount(String inputStr) => inputStr.split(RegExp(r'[aeiou]')).length - 1;

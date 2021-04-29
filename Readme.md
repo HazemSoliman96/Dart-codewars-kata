@@ -11,3 +11,5 @@
 [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078)
 
 [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
+
+[Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
